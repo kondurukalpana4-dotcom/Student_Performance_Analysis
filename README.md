@@ -1,31 +1,40 @@
-# Titanic Data Cleaning & Passenger Analysis
+Student Performance Analysis
 
-## Objective
-The objective of this project is to clean the Titanic dataset and analyze passenger survival trends using Python.
+Project Overview
 
-## Tools Used
+This project analyzes student performance data using Python and data analysis techniques. The main goal is to understand student performance and identify important patterns in the dataset.
+
+Technologies Used
+
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
-- GoogleColab
+- Statistics
+- Exploratory Data Analysis (EDA)
 
-## Dataset
-Titanic Dataset
+Project Tasks
 
-## Tasks Completed
-- Loaded the dataset
-- Handled missing values
-- Removed duplicate records
-- Detected outliers
-- Filtered data
-- Grouped data using group by()
-- Calculated survival statistics
-- Created Bar Chart
-- Created Line Chart
-- Created Histogram
-- Created Scatter Plot
-- Wrote EDA summary
+- Load the dataset using Pandas
+- Perform Exploratory Data Analysis
+- Check missing values and duplicates
+- Calculate mean, median, mode, variance, and standard deviation
+- Detect and treat outliers
+- Analyze correlations between variables
+- Create data visualizations
+- Write an EDA summary with key insights
 
-## Conclusion
-This project helped me learn data cleaning, analysis, and visualization using the Titanic dataset.
+Visualizations
+
+- Bar Chart
+- Line Chart
+- Histogram
+- Scatter Plot
+
+Dataset
+
+The project uses a Student Performance dataset for analysis.
+
+Conclusion
+
+This project demonstrates the use of Python, NumPy, Pandas, Statistics, and Matplotlib for data cleaning, exploratory data analysis, and visualization.
